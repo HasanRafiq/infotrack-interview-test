@@ -30,4 +30,3 @@ Now type your url and keyword combo
 
     Working correctly (https://www.google.co.uk/search?num=3&q=kfc, chicken)
     Failing (https://www.google.co.uk/search?num=4&q=kfc, chicken)
-"# infotrack-interview-test" 
