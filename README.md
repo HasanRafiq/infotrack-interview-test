@@ -7,16 +7,16 @@
 
 -   Backend:
 
-    -   Run dotnet restore to restore project dependencies.
-    -   Select InfoTrackWebScraper.API as startup project.
+    -   Run `dotnet restore` to restore project dependencies.
+    -   Select `InfoTrackWebScraper.API` as startup project.
     -   Run API (or dotnet run)
 
 -   Frontend:
 
-    -   Navigate to InfotrackWebScraper.Frontend
-    -   run npm install
-    -   run npm start
-    -   open http://localhost:3000 (if it didn't automatically)
+    -   Navigate to `InfotrackWebScraper.Frontend`
+    -   run `npm install`
+    -   run `npm start`
+    -   open `http://localhost:3000` (if it didn't automatically)
 
 Now type your url and keyword combo
 
