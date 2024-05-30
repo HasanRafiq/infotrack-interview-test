@@ -9,7 +9,7 @@
 
     -   Run `dotnet restore` to restore project dependencies.
     -   Select `InfoTrackWebScraper.API` as startup project.
-    -   Run API (or dotnet run)
+    -   Run API (or run `dotnet run`)
 
 -   Frontend:
 
