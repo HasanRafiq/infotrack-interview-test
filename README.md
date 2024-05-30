@@ -22,11 +22,13 @@ Now type your url and keyword combo
 
 ### Known bugs:
 
--   Tested and working with example url and keyword (https://www.google.co.uk/search?num=100&q=land+registry+search, www.infotrack.co.uk) (and many other keywords)
+-   Tested and working with example url and keyword
+
+    -   (https://www.google.co.uk/search?num=100&q=land+registry+search, www.infotrack.co.uk) (and many other keywords)
 
 -   If error found for valid url, reduce num query param in google search url. I think this is because of an issue when parsing into an XmlDocument type.
 
 -   Example (may vary based on SEO):
 
-    Working correctly (https://www.google.co.uk/search?num=3&q=kfc, chicken)
-    Failing (https://www.google.co.uk/search?num=4&q=kfc, chicken)
+    -   Working correctly (https://www.google.co.uk/search?num=3&q=kfc, chicken)
+    -   Failing (https://www.google.co.uk/search?num=4&q=kfc, chicken)
